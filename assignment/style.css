@@ -1,0 +1,413 @@
+    *{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+@font-face {
+    font-family:arial ;
+    src: url(./ARIAL.TTF);
+
+}
+
+img{
+    width: 40px;
+    height: 40px;
+   margin-right: 100px;
+ ;
+   
+    
+}
+div{
+    display: inline-block;
+    font-size: 20px;
+    font-family: arial;
+}
+.list a{
+    text-decoration: none;
+    margin-left: 20px;
+    color:black;
+}
+span{
+    color: black;
+    margin-left: 800px;
+    background-color:aqua;
+}
+.container2>img{
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 200px;
+  
+   
+}
+.hero-text h1{
+    font-size: 40px;
+   margin-top: 20px;
+    margin-left: 600px;
+    color: orangered;
+
+    
+}
+.hero-text p{
+    margin-left: 600px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+    
+} 
+.head2{
+    color: rgb(4, 4, 58);
+   
+    font-size: 40px;
+    margin: 0% auto;
+
+}
+.shop-now-button{
+    background-color: blue;
+    text-decoration: none; 
+    font-size: 20px;
+    color: azure;
+    margin-left:600px;
+    padding: 5px;
+    
+} */
+ .shop-now-button:hover{
+     display: flex;
+ }
+   
+
+ h1{
+   font-size: 40px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: rgb(5, 5, 87);
+   padding-top: 40px;
+   margin-left: 40px;
+   text-decoration: underline;
+ }
+ .container1{
+    width: 400px;
+    height: 650px;
+    background-color: white;
+   padding: 10px;
+   border-radius: 25px;
+   margin-left: 80px;
+   display: inline-block;
+   margin-top:30px;
+   border: 6px;
+   border-color: grey;
+   border-style: solid;
+   
+ }
+ .box1{
+    width: 380px;
+    height: 400px;
+    background-color:lightgrey;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 15px;
+    box-shadow:  9px 7px 5px 0px rgba(13,9,9,0.75);;
+     
+ }
+ .box1 img{
+    margin: 0%;
+    width: 400px;
+    height: 400px;
+
+    
+ }
+ .head1{
+       font-size: 30px;
+       color: rgb(3, 3, 66);
+       font-weight: bold;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ }
+ .word1{
+    font-size: 25px;
+    color: black;
+    margin-top: 5px;
+
+ }
+ .number1{
+    color: orangered;
+    font-size: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+ }
+ .button1{
+    font-size: 20px;
+    padding: 5px;
+    color: white;
+    background-color: blue;
+    border: 3px;
+    border-color: blue;
+    border-style: solid;
+   margin-left: 250px;
+   
+ 
+ }
+ .box2{
+     width: 400px;
+    height: 650px;
+    background-color: white;
+   padding: 10px;
+   border-radius: 25px;
+   margin-left: 40px;
+   border: 6px;
+   border-color: grey;
+   border-style: solid;
+  
+ }
+  .container1 .box2{
+    width: 400px;
+    height: 650px;
+    background-color: white;
+   padding: 10px;
+   border-radius: 25px;
+   margin-left: 80px;
+   
+}
+.box2 img{
+      margin: 0%;
+    width: 380px;
+    height: 400px;
+     background-color:lightgrey;
+     margin-left: 10px;
+     border-radius: 15px;
+     margin-top: 8px;
+     box-shadow: 9px 7px 5px 0px rgba(13,9,9,0.75);; ;
+} 
+.head2{
+       font-size: 30px;
+       color: rgb(3, 3, 66);
+       font-weight: bold;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .word2{
+    font-size: 25px;
+    color: black;
+    margin-top: 5px;
+
+ }
+ .number2{
+    color: orangered;
+    font-size: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+ }
+ button{
+    font-size: 20px;
+    padding: 5px;
+    color: white;
+    background-color: blue;
+    border: 3px;
+    border-color: blue;
+    border-style: solid;
+   margin-left: 250px;
+  
+ }
+ .box3{
+       width: 400px;
+    height: 650px;
+    background-color: white;
+   padding: 10px;
+   border-radius: 30px;
+   margin-left: 80px;
+   margin-top: 30px;
+   border: 6px;
+   border-color: grey;
+   border-style: solid;
+ }
+  .box3 img{
+   height: 400px;
+   width: 390px;
+    background-color: lightgrey;
+    border-radius: 30px;
+    box-shadow: 9px 7px 5px 0px rgba(13,9,9,0.75);; ;
+  }
+.head3{
+       font-size: 30px;
+       color: rgb(3, 3, 66);
+       font-weight: bold;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .word3{
+    font-size: 25px;
+    color: black;
+    margin-top: 5px;
+
+ }
+ .number3{
+    color: orangered;
+    font-size: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+ }
+ button{
+    font-size: 20px;
+    padding: 5px;
+    color: white;
+    background-color: blue;
+    border: 3px;
+    border-color: blue;
+    border-style: solid;
+   margin-left: 250px;
+  
+ }
+ .container2{
+   width: 400px;
+   height: 650px;
+   background-color: white;
+   padding: 10px;
+   border-radius: 25px;
+   display: flex;
+   padding-left: 30px;
+ border: 6px;
+   border-color: grey;
+   border-style: solid;
+   margin-top: 50px;
+  
+    
+ }
+ 
+ 
+ .box4 img{
+   height: 380px;
+    width: 380px;
+    background-color: rgb(80, 57, 31);
+    margin-left: 15px;
+   box-shadow:  9px 7px 5px 0px rgba(13,9,9,0.75);;;
+ 
+
+  
+   
+ }
+ .head4{
+       font-size: 30px;
+       color: rgb(3, 3, 66);
+       font-weight: bold;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .word4{
+    font-size: 25px;
+    color: black;
+    margin-top: 5px;
+
+ }
+ .number4{
+    color: orangered;
+    font-size: 30px;
+    margin-top: 60px;
+    font-weight: bold; 
+    margin-right: 100px;
+
+ }
+ .container2 {
+    width: 400px;
+    height: 650px;
+    background-color: white;
+   padding: 10px;
+   margin-left: 10px;
+   border-radius: 25px;
+   margin-top: 40px;
+ 
+   
+  
+
+ }
+   .container2 .box5{
+    width: 400px;
+    height: 650px;
+    background-color: white;
+   padding: 10px;
+   margin-left: 10px;
+   border-radius: 25px;
+  border: 6px;
+   border-color: grey;
+   border-style: solid;
+   
+
+   
+  
+
+ }
+ .box5 img{
+     height: 400px;
+    width: 380px;
+    background-color: rgb(80, 57, 31);
+    margin-left: 15px;
+    box-shadow:  9px 7px 5px 0px rgba(13,9,9,0.75);;;
+   
+ }
+ .head5{
+       font-size: 30px;
+       color: rgb(3, 3, 66);
+       font-weight: bold;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .word5{
+    font-size: 25px;
+    color: black;
+    margin-top: 5px;
+
+ }
+ .number5{
+    color: orangered;
+    font-size: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+ }
+  .container2 .box6{
+    width: 400px;
+    height: 650px;
+    background-color: white;
+   padding: 10px;
+   margin-left: 100px;
+   border-radius: 25px;
+   border: 6px;
+   border-color: grey;
+   border-style: solid;
+  
+  
+
+ }
+ .box6 img{
+     height: 400px;
+    width: 370px;
+    background-color: rgb(80, 57, 31);
+    margin-left: 5px;
+    box-shadow:  9px 7px 5px 0px rgba(13,9,9,0.75);;;
+   
+ }
+ .head6{
+       font-size: 30px;
+       color: rgb(3, 3, 66);
+       font-weight: bold;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .word6{
+    font-size: 25px;
+    color: black;
+    margin-top: 5px;
+
+ }
+ .number6{
+    color: orangered;
+    font-size: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+ }
+.button4{
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+ 
+ 
+
+
+ 
+ 
+
